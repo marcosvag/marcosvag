@@ -4,7 +4,6 @@ I like to code and chat with people about topics that don't make sense.
 <br/>
 I'm fluent in Portuguese and English, and I know some German.
 <br/> <br/>
-[He4rt Developers](https://heartdevs.com/) member
 
 ## I work with
 <div>
