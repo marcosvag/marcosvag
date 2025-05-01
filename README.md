@@ -1,6 +1,6 @@
 # Hey, I’m Marcos Garcia
 
-I like to code and chat with people about topics that don't make sense.
+I like to code and chat with people about random topics.
 <br/>
 I'm fluent in Portuguese and English, and I know some German.
 <br/> <br/>
